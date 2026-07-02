@@ -13,11 +13,17 @@ A wearable AI-powered communication system that captures Indian Sign Language (I
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
-![Edge AI](https://img.shields.io/badge/Edge_AI-Radxa_Zero_3W-purple)
-![ISL](https://img.shields.io/badge/Indian_Sign_Language-ISL-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![ResNet18](https://img.shields.io/badge/Model-ResNet18-red)
+![TensorFlow Lite](https://img.shields.io/badge/Deployment-TensorFlow%20Lite-FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Indian Sign Language](https://img.shields.io/badge/Indian%20Sign%20Language-ISL-orange)
+![Egocentric Vision](https://img.shields.io/badge/Vision-Egocentric%20POV-purple)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-Radxa%20Zero%203W-6f42c1)
+![Dataset](https://img.shields.io/badge/Dataset-POV--ISL-teal)
+![Quantization](https://img.shields.io/badge/Quantization-INT8-success)
+![Accuracy](https://img.shields.io/badge/Accuracy-91.8%25-brightgreen)
+![Latency](https://img.shields.io/badge/Latency-25ms-blueviolet)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-success)
 
 
 ## Quick Navigation
