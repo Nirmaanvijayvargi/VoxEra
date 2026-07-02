@@ -23,7 +23,7 @@ A wearable AI-powered communication system that captures Indian Sign Language (I
 ![Quantization](https://img.shields.io/badge/Quantization-INT8-success)
 ![Accuracy](https://img.shields.io/badge/Accuracy-91.8%25-brightgreen)
 ![Latency](https://img.shields.io/badge/Latency-25ms-blueviolet)
-![Status](https://img.shields.io/badge/Status-Research%20Prototype-success)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-success-)
 
 
 ## Quick Navigation
